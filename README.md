@@ -1,4 +1,4 @@
-# ddns-updater-cloudflare
+# DDNS UPDATER CLOUDFLARE
 DDNS Updater Cloudflare
 
 # Setup DDNS Cloudflare
